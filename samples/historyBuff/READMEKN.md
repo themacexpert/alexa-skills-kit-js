@@ -1,0 +1,1 @@
+Created AWS Account (Virigina - US East only), History Buff app all set up -  couldn't test on DEN Alexa Device yet.
